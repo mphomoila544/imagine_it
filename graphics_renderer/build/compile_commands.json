@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/mpho/Desktop/imagine_it/graphics_renderer/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/graphics_renderer.dir/src/main.cpp.o -c /home/mpho/Desktop/imagine_it/graphics_renderer/src/main.cpp",
+  "file": "/home/mpho/Desktop/imagine_it/graphics_renderer/src/main.cpp",
+  "output": "CMakeFiles/graphics_renderer.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/mpho/Desktop/imagine_it/graphics_renderer/build",
+  "command": "/usr/bin/cc   -g -o CMakeFiles/graphics_renderer.dir/src/glad.c.o -c /home/mpho/Desktop/imagine_it/graphics_renderer/src/glad.c",
+  "file": "/home/mpho/Desktop/imagine_it/graphics_renderer/src/glad.c",
+  "output": "CMakeFiles/graphics_renderer.dir/src/glad.c.o"
+}
+]

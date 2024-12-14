@@ -1,0 +1,98 @@
+body{
+    font-family: Arial, sans-serif;
+}
+
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.main-log-container{
+    width: 100%;
+    height: 100vh;
+}
+.login-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 80vh;
+}
+
+.logform-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06);
+    border-radius: 20px;
+    background-color: #ffffff;
+}
+.log-form{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    width: 30%;
+    height: 80%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.06);
+    background-color: white;
+}
+.form{
+    align-items: center;
+    align-content: center;
+    width: 80%;
+    height: 100%;
+}
+
+.log-pic{
+    width: 40%;
+    height: 90%;
+}
+.input-box{
+    width: 100%;
+    height: 40px;
+}
+.input-box input{
+    width: 100%;
+    height: 45px;
+    padding: 5px;
+    font-size: 12px;
+    border-radius: 2px;
+    border:1px solid;
+    outline:none
+    
+}
+input:focus{
+    border:2px solid #945dd6;
+}
+.box1{
+    margin-bottom: 20px;
+}
+.box2{
+    margin-top: 10px;
+}
+.sn-btn{
+    width: 100%;
+    height: 45px;
+    background-color: white;
+    border:0;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #f865c3, #945dd6);
+    margin-top: 20px;
+}
+.wc-msg{
+    position: relative;
+    bottom: 15%;
+}
+.reg-log{
+    color:#945dd6;
+}
+.reg{
+    position: relative;
+    top:20px;
+}

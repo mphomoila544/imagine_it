@@ -1,0 +1,3 @@
+/home/mpho/Desktop/imagine_it/graphics_renderer/build/CMakeFiles/graphics_renderer.dir
+/home/mpho/Desktop/imagine_it/graphics_renderer/build/CMakeFiles/edit_cache.dir
+/home/mpho/Desktop/imagine_it/graphics_renderer/build/CMakeFiles/rebuild_cache.dir
