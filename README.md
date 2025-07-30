@@ -1,0 +1,1 @@
+Difficult to imagine machine learning concepts in lectures, like imagine a 3D space, when you multiply a matrix by a lower rank matric it decreases, so this project is about solving that, by creating visual designs following lectures voice commands
